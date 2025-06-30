@@ -115,13 +115,15 @@
 @media screen and (min-width: 1440px) {
 
   .gallery-title {
-
     font-size: 48px;
   }
+
 
   .gallery-list {
     grid-template-columns: repeat(auto-fit, minmax(421px, 1fr));
   }
+
+
    .gallery-image-ecobag {
     grid-column-start: 1;
     grid-row-start: 2;
